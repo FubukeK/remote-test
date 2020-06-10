@@ -4,5 +4,14 @@
     background:rgb(175, 149, 204);
     font-size: 32px;
     font-family: sans-serif;
-    color: #fff;
+    color: #fff ;
 }
+.main  { 
+    background: rgb(144, 238, 149);
+    padding: 50px 100px;
+    font-size: 38px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #fff;
+    
+ }
